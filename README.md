@@ -2,6 +2,12 @@
 
 ## Set up
 
+Clone this repository.
+
+```
+git clone https://github.com/letslearndjango/django_app.git && cd django_app
+```
+
 Install `brew`, the package manager for Mac OS.
 
 ```
