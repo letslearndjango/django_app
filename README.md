@@ -5,7 +5,7 @@
 Install `brew`, the package manager for Mac OS.
 
 ```
-
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
 Install `pyenv`, a python installation manager.
