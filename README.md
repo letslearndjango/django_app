@@ -35,7 +35,7 @@ pyenv local 3.6.7
 Install a virtual environment with `virtualenv`.
 
 ```
-virtualenv venv --python=python3.6
+$(pyenv which virtualenv) venv --python=$(pyenv which python3.6)
 ```
 
 Activate the virtual environment.
